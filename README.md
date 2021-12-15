@@ -5,9 +5,11 @@ I am a computer science student at UESPI de piripiri. A nature enthusiast and lo
 - 🌱 I am currently in the IV period of the University
 - 📫 How to reach me: instagram.com/ue_crislan/
 
-![](https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&count_private=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crishard&layout=compact&count_private=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/crishard">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crishard&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Crislan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
