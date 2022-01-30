@@ -6,12 +6,12 @@ I am a computer science student at UESPI de piripiri. A nature enthusiast and lo
 - 📫 How to reach me: instagram.com/ue_crislan/
 
 
-![](https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&count_private=true&theme=dark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&count_private=true&theme=dark)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crishard&layout=compact&count_private=true&theme=dark)
 
-  
+   -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Crislan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Crislan-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
