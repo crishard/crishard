@@ -1,7 +1,7 @@
 I am a computer science student at UESPI de piripiri. A nature enthusiast and lover who is immersing himself in the world of technologies
 
 - 🌱 I am currently in the IV period of the University
-
+- 📫 How to reach me: instagram.com/ue_crislan/
 
 <div>
   <a href="https://github.com/Diogoloiola">
@@ -18,4 +18,4 @@ I am a computer science student at UESPI de piripiri. A nature enthusiast and lo
   <img align="center" alt="Crislan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 </br>
-- 📫 How to reach me: instagram.com/ue_crislan/
+
