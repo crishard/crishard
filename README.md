@@ -1,11 +1,11 @@
-I am a computer science student at UESPI de piripiri.
+I am a computer science student at state university of Piauí.
 
 - 🌱 I am currently in the V period of the University
-- 📫 How to reach me: instagram.com/ue_crislan/
+- 📫 How to reach me: crislantorrespr@gmail.com
 
 <div>
-  <a href="https://github.com/Diogoloiola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/crishard">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crishard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crishard&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
