@@ -1,6 +1,6 @@
 I am a computer science student at state university of Piauí.
 
-- 🌱 I am currently in the 6th period of the University
+- 🌱 I am currently in the 7th period of the University
 - 📫 How to reach me: crislantorrespr@gmail.com
 
 <div>
