@@ -1,7 +1,11 @@
-I am a computer science student at state university of Piauí.
+I have a degree in Computer Science from the State University of Piauí.
 
-- 🌱 I am currently in the 7th period of the University
-- 📫 How to reach me: crislantorrespr@gmail.com
+🌱 Always learning and improving my skills in web development
+
+📫 How to reach me: crislantorrespr@gmail.com
+
+🌐 Check out my portfolio: [Crislân](https://crislan.com.br/)
+
 
 <div>
   <a href="https://github.com/crishard">
